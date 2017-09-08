@@ -1,5 +1,3 @@
-'use strict';
-
 var initialLocations = [
 	{	name: 'Pizza Guerrin', lat: -34.6040999, long: -58.3858806	},
 	{	name: 'El Palacio de la Papa Frita', lat: -34.60422, long: -58.38867	},
